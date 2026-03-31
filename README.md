@@ -2,7 +2,7 @@
 
 > 从 source map 还原并可运行的 Claude Code CLI 完整 TypeScript 源码
 
-![预览](preview.png)
+![预览](imgs/preview.png)
 
 > [!WARNING]
 > 本仓库为**非官方**版本，基于公开 npm 发布包的 source map 还原，**仅供研究学习使用**。
@@ -117,6 +117,9 @@ Source map 无法完整还原原始仓库，以下内容可能缺失或降级：
 - 动态导入和资源文件
 
 `shims/` 目录包含了对不可还原模块的兼容性替代实现。
+
+## 交流群
+![预览](imgs/qr.png)
 
 ## 声明
 
